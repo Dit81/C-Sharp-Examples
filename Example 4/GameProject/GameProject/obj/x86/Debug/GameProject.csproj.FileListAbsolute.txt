@@ -1,0 +1,12 @@
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\CamposTrabajos\VisualStudios\P4\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
