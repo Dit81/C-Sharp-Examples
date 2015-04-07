@@ -1,0 +1,10 @@
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.exe
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\ProgrammingAssignment5.pdb
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.csprojResolveAssemblyReference.cache
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.exe
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Debug\ProgrammingAssignment5.pdb
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\explosion.xnb
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\mine.xnb
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\Content\teddybear.xnb
+D:\CamposTrabajos\VisualStudios\PA5\ProgrammingAssignment5\ProgrammingAssignment5\ProgrammingAssignment5\bin\x86\Debug\TeddyMineExplosion.dll
