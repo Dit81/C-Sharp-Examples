@@ -208,5 +208,18 @@ namespace GameProject
         }
 
         #endregion
+
+        public int Health
+        {
+            get { return health; }
+
+            set
+            {
+                health = value;
+                if (health < 0) health = 0;
+                if (health > GameConstants.BURGER_INITIAL_HEALTH) health = GameConstants.BURGER_INITIAL_HEALTH;
+            }
+
+        }
     }
 }

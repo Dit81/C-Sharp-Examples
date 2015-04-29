@@ -176,8 +176,29 @@ namespace GameProject
             }  
 
             // check and resolve collisions between burger and teddy bears
+            foreach (TeddyBear bear in bears)
+            {
+                if (bear.Active == true &&
+                    bear.CollisionRectangle.Intersects(burger.CollisionRectangle))
+                {
+                    burger.Health -= GameConstants.BEAR_DAMAGE;
+                    bear.Active = false;
+                    Explosion explosion = new Explosion(explosionSpriteStrip, bear.Location.X, bear.Location.Y);
+                    explosions.Add(explosion);
+                }
+            }
 
             // check and resolve collisions between burger and projectiles
+            foreach (Projectile projectile in projectiles)
+            {
+                if (projectile.Type == ProjectileType.TeddyBear && projectile.Active &&
+                        burger.CollisionRectangle.Intersects(projectile.CollisionRectangle))
+                {
+                    burger.Health -= GameConstants.TEDDY_BEAR_PROJECTILE_DAMAGE;
+                    projectile.Active = false;
+                    explosions.Add(new Explosion(explosionSpriteStrip, burger.CollisionRectangle.Center.X, burger.CollisionRectangle.Center.Y));
+                }
+            }
 
             // check and resolve collisions between teddy bears and projectiles
             foreach (TeddyBear bear in bears)
@@ -367,5 +388,7 @@ namespace GameProject
         }
 
         #endregion
+
+      
     }
 }
